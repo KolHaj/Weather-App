@@ -7,7 +7,8 @@ public class DataReader {
     public static Properties readPropertiesFile() throws IOException {
         FileInputStream fis = null;
         Properties prop = null;
-        String fileName = "Data.properties";
+        //Change this to Data.properties and enter your API Key on properties
+        String fileName = "Test.properties";
         try {
             fis = new FileInputStream(fileName);
             prop = new Properties();
