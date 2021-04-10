@@ -22,7 +22,7 @@ No current unit tests exist, will look into adding in the future.
 
 ## Built With
 
-* [Java] (https://www.java.com/en/) - Main Language
+* [Java](https://www.java.com/en/) - Main Language
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Weather-API](https://openweathermap.org/) - API Data
 
