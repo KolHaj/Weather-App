@@ -117,7 +117,7 @@ public class WeatherGUI extends Application {
         weatherImage.setAlignment(Pos.CENTER);
 
         // Labels for each forecast box date on top
-        HBox weatherDateLabels = new HBox(195, dayOneDate, dayTwoDate, dayThreeDate);
+        HBox weatherDateLabels = new HBox(225, dayOneDate, dayTwoDate, dayThreeDate);
         weatherDateLabels.setAlignment(Pos.CENTER);
 
         // Labels for each forecast box weather type
